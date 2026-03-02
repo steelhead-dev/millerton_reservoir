@@ -1,3 +1,6 @@
 # Outputs File Directory
 outputs/*
 
+# pixi environments
+.pixi/*
+.pixi/config.toml
