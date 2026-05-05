@@ -42,10 +42,10 @@ Segment DynSh   TTEleLB TTEleRB ClDisLB ClDiRB  SRFLB1  SRFLB2  SRFRB1  SRFRB2  
       39       1
       40       1
       41       1
-      42       1  
-      43       1  
-      44       1  
-      45       1  
+      42       1
+      43       1
+      44       1
+      45       1
       46       1
       47       1
       48       1
@@ -67,4 +67,3 @@ Segment DynSh   TTEleLB TTEleRB ClDisLB ClDiRB  SRFLB1  SRFLB2  SRFRB1  SRFRB2  
       64       1
       65       1
       66       1
-      
