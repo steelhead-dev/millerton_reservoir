@@ -1,5 +1,5 @@
 # Outputs File Directory
-scenario_runs/*
+analysis_runs/*
 
 # pixi environments
 .pixi/*
