@@ -1,7 +1,9 @@
 # Outputs File Directory
-model/outputs/*
-testing/
+scenario_runs/*
 
 # pixi environments
 .pixi/*
 .pixi/config.toml
+
+# Jupyter Notebooks
+*.ipynb_checkpoints
