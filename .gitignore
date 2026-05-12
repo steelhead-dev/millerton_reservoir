@@ -6,4 +6,5 @@ analysis_runs/*
 .pixi/config.toml
 
 # Jupyter Notebooks
-*.ipynb_checkpoints
+.ipynb_checkpoints/
+.virtual_documents/
