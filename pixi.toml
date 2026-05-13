@@ -1,0 +1,25 @@
+[workspace]
+authors = ["Justin Hawkins <Justin@mcbainassociates.com>"]
+channels = ["conda-forge"]
+name = "millerton_reservoir"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = ">=3.14,<3.15"
+jupyter = "*"
+notebook = "*"
+ipykernel = "*"
+ipywidgets = "*"
+matplotlib = "*"
+numpy = "*"
+pandas = "*"
+scipy = "*"
+openpyxl = "*"
+# Add any other libraries here that are imported in 2026_RA_Flows.ipynb
+
+# For local module from adjacent directory
+[pypi-dependencies]
+pyqualw2 = { path = "../pyqualw2", editable = true }
