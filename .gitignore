@@ -16,3 +16,10 @@ analysis_runs/*
 # Jupyter Notebooks
 .ipynb_checkpoints/
 .virtual_documents/
+
+# QualW2 files
+.model/W2CodeCompilerVersion.opt
+.model/W2Errordump.csv
+.model/flowbal.csv
+.model/str_br1.csv
+.model/VOLUME_WB1.OPT
